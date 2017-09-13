@@ -12,7 +12,7 @@ Logger.Log(Channel.Loading, Priority.Error, "Load failed");
 
 Unity-Logger is a simple channel driven logging script for use with Unity.
 
-It was created during the development of [Off Grid](www.offgridthegame.com) to allow us to focus on current tasks and bugs by disabling logs from unrelated channels.
+It was created during the development of [Off Grid](http://www.offgridthegame.com) to allow us to focus on current tasks and bugs by disabling logs from unrelated channels.
 
 Due to it's nicely formatted output, it also allows the user to easily distinguish between the different channels.
 
